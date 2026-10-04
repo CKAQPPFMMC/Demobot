@@ -10,7 +10,7 @@ from pytgcalls.types import MediaStream
 API_ID = 30954067                 # my.telegram.org
 API_HASH = "14b365d5ed5bc10b0379a4c9a31be351"
 BOT_TOKEN = "8994535308:AAFfyuYAMQOfnnTzjcSAonJyYEMADUZmzPQ"   # @BotFather
-ADMIN_ID = 8815360015           # @userinfobot
+ADMIN_ID = 8934463264           # @userinfobot
 SESSIONS = ["test1"]  # শুধু আপনার নিজের ২টা test account
 SILENCE = "silence.mp3"
 
