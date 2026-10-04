@@ -1,0 +1,4 @@
+Pyrogram==2.0.106
+PyTgCalls==2.2.11
+cryptography
+TgCrypto
